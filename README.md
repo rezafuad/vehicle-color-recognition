@@ -10,4 +10,4 @@ The .caffemodel file for the model can be downloaded at following link
 https://drive.google.com/file/d/0B1TwxHccIhDKZjlmakgwQlNMU00/view?usp=sharing
 
 Visualization of two first layer of the CNN
-
+![alt text](https://github.com/rezafuad/vehicle-color-recognition/raw/master/respond.png)
