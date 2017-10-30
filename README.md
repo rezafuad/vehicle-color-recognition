@@ -1,8 +1,8 @@
 The model for vehicle color recognition described on
 
 
->"Vehicle Color Recognition using Convolutional Neural Network",
->Reza Fuad Rachmadi and I Ketut Eddy Purnama
+>"Vehicle Color Recognition using Convolutional Neural Network",<br />
+>Reza Fuad Rachmadi and I Ketut Eddy Purnama<br />
 >https://arxiv.org/abs/1510.07391
 
 
